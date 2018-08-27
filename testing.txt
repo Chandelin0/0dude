@@ -1,0 +1,5 @@
+total 20
+  3659174697508998  0 drwxr-xr-x 1 harifetra 1049089 0 Aug 27 15:40 .
+  1407374883553285 16 drwxr-xr-x 1 harifetra 1049089 0 Aug 27 15:38 ..
+ 83035118129757532  4 drwxr-xr-x 1 harifetra 1049089 0 Aug 27 15:38 .git
+170292360910050309  0 -rw-r--r-- 1 harifetra 1049089 0 Aug 27 15:40 testing.txt
